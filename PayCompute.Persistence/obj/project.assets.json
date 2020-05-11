@@ -5161,11 +5161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorda\\source\\repos\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
       "projectName": "PayCompute.Persistence",
-      "projectPath": "C:\\Users\\jorda\\source\\repos\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+      "projectPath": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
       "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorda\\source\\repos\\PayCompute.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5181,8 +5181,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jorda\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\jorda\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+            "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Entity\\PayCompute.Entity.csproj"
             }
           }
         }

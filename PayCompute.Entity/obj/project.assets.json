@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorda\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "projectName": "PayCompute.Entity",
-      "projectPath": "C:\\Users\\jorda\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+      "projectPath": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorda\\source\\repos\\PayCompute.Entity\\obj\\",
+      "outputPath": "C:\\Users\\jorda\\source\\repos\\GitCommits\\PayCompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
