@@ -6,3 +6,11 @@ C:\Users\jorda\source\repos\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute
 C:\Users\jorda\source\repos\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.AssemblyInfo.cs
 C:\Users\jorda\source\repos\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.dll
 C:\Users\jorda\source\repos\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.pdb
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\bin\Debug\netcoreapp3.1\PayCompute.Entity.deps.json
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\bin\Debug\netcoreapp3.1\PayCompute.Entity.dll
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\bin\Debug\netcoreapp3.1\PayCompute.Entity.pdb
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.csprojAssemblyReference.cache
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.AssemblyInfo.cs
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.dll
+C:\Users\jorda\source\repos\GitCommits\PayCompute.Entity\obj\Debug\netcoreapp3.1\PayCompute.Entity.pdb
